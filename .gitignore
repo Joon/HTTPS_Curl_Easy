@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/HTTPS_Curl_Easy/bin/ARM/Debug
+/HTTPS_Curl_Easy/obj/ARM/Debug
+/jannson_sphere/bin/ARM/Debug
+/jannson_sphere/obj/ARM/Debug
